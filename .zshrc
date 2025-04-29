@@ -112,3 +112,6 @@ eval "$(starship init zsh)"
 
 # ZSH Syntax Highlighting
 source /home/navneeth/Plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# Rofi Scripts
+export PATH=$HOME/.config/rofi/scripts:$PATH

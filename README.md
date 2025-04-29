@@ -1,1 +1,1 @@
-Dotfiles for Arch Install
+**Dotfiles for Arch Install**

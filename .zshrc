@@ -115,3 +115,8 @@ source /home/navneeth/Plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 # Rofi Scripts
 export PATH=$HOME/.config/rofi/scripts:$PATH
+
+# Colorscheme from pywal
+(cat ~/.cache/wal/sequences &)
+cat ~/.cache/wal/sequences
+source ~/.cache/wal/colors-tty.sh
